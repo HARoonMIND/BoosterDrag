@@ -1,0 +1,36 @@
+
+			
+			.thumbnail img:hover{
+				transform:scale(1.1);
+				}
+				
+				.thumbnail img{
+					
+					transition:all 0.3s ease 0s;
+					width:100%;
+					}
+					.thumbnail{
+						overflow:hidden;
+						}
+					
+				
+/*
+
+Navy Blue: #2C3E50;
+Navy Blue Active: #1A242F;
+Turquoise: #18BC9C;
+White: #FFFFFF;
+
+BTN Primary: #2C3E50
+BTN Primary Hover: #1E2A36;
+BTN Primary Hover Boarder: #161F29;
+
+BTN Success: #18BC9C;
+BTN Success Hover: #13987E;
+BTN Success Hover Boarder: #11866F;
+
+BTN Default: #95A5A6;
+BTN Default Hover: #7F9293;
+BTN Default Hover Background: #74898A;
+
+*/

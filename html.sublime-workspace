@@ -1,0 +1,424 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"h",
+				"h1	Tag"
+			],
+			[
+				"o",
+				"overflow"
+			],
+			[
+				"s",
+				"size"
+			],
+			[
+				"Mo",
+				"motorCyleNo"
+			],
+			[
+				"st",
+				"style	Tag"
+			],
+			[
+				"wordpress",
+				"wordpress"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"u",
+				"ul	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 1785,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/B/Work Space/Web Development/Project/BoosterDrag"
+	],
+	"file_history":
+	[
+		"/B/Work Space/Web Development/Project/TheByteCodes/thebytecode/index.php",
+		"/B/Work Space/Web Development/Project/BoosterDrag/index.html",
+		"/B/Users/Haroon/Downloads/google2bd5e4cfac5bd148.html",
+		"/B/Users/Haroon/Downloads/blogthebytecodes.wordpress.2016-03-16.xml",
+		"/B/Work Space/Web Development/Project/TheByteCodes/thebytecode/vendor/autoload.php",
+		"/B/Work Space/Web Development/Project/TheByteCodes/thebytecode/vendor/facebook/php-sdk-v4/src/Facebook/autoload.php",
+		"/B/Work Space/Web Development/Project/TheByteCodes/thebytecode/_dist/vendors/autoload.php",
+		"/B/Work Space/Web Development/Project/ChamanAutos/WebSite/autospanel/_include/database.php",
+		"/C/wamp/www/ChamanAutos/autospanel/sparepart/ui-sparePart-available.php",
+		"/C/wamp/www/ChamanAutos/autospanel/warranty/ui-warranty.php",
+		"/C/wamp/www/ChamanAutos/autospanel/warranty/service-tuning-controller-set-customer.php",
+		"/C/wamp/www/Thebytecodes/index.php",
+		"/C/phpunit/phpunit-5.2.12.phar",
+		"/B/Work Space/Web Development/Practice/laravel/quickstart/resources/views/common/errors.blade.php",
+		"/B/Work Space/Web Development/Practice/laravel/quickstart/resources/views/tasks.blade.php",
+		"/B/NOTES/PHPSTROM USE FULL SHORT CUT",
+		"/B/Work Space/Web Development/Project/ChamanAutos/_Assets/temp/comment data'",
+		"/C/wamp/bin/php/php5.5.12/php.ini",
+		"/B/Work Space/Web Development/Project/ChamanAutos/_Assets/Document/content/register claim.txt",
+		"/B/Work Space/Web Development/Practice/laravel/quickstart/app/Http/routes.php",
+		"/B/Work Space/Web Development/Practice/laravel/quickstart/app/Task.php",
+		"/B/Work Space/Web Development/Practice/laravel/quickstart/database/migrations/2016_02_28_091501_create_tasks_table.php",
+		"/B/Work Space/Web Development/Practice/laravel/quickstart/resources/views/app.blade.php",
+		"/B/Work Space/Web Development/Practice/laravel/quickstart/resources/views/welcome.blade.php",
+		"/B/Work Space/Web Development/Practice/laravel/quickstart/database/migrations/2016_02_28_090324_create_tasks_table.php",
+		"/B/Work Space/Web Development/Practice/laravel/quickstart/database/migrations/2016_02_28_091438_create_tasks_table.php",
+		"/B/Work Space/Web Development/Practice/laravel/quickstart/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/B/Work Space/Web Development/Practice/laravel/quickstart/database/migrations/2016_02_28_083233_create_tasks_table.php",
+		"/B/Work Space/Web Development/Practice/laravel/quickstart/config/database.php",
+		"/B/Work Space/Web Development/Practice/laravel/quickstart/.env",
+		"/B/Work Space/Web Development/Practice/laravel/quickstart/.env.example",
+		"/C/wamp/bin/apache/apache2.4.9/conf/httpd.conf",
+		"/B/Work Space/Web Development/Practice/laravel/quickstart/config/app.php",
+		"/C/Users/Haroon/AppData/Roaming/Adobe/Dreamweaver CC/en_US/Configuration/SiteCache/chamanautos.com.pk.dws",
+		"/C/Users/Haroon/AppData/Roaming/Adobe/Dreamweaver CC/en_US/Configuration/FTPExtensionMap.txt",
+		"/B/Work Space/Web Development/Project/blog/config/database.php",
+		"/B/Work Space/Web Development/Project/blog/config/app.php",
+		"/B/Program/XAMPP/apache/conf/httpd.conf",
+		"/B/Work Space/Graphics/useful link.txt",
+		"/B/Work Space/Programming/JAVA/Projects/SecurityAppMaven/pom.xml",
+		"/B/DashBoard/English Nasheed/Nasheed web link.txt",
+		"/B/DashBoard/casual Staff/introduction for match.txt",
+		"/B/DashBoard/casual Staff/movie.txt",
+		"/B/DashBoard/Document/meandpass.txt",
+		"/B/DashBoard/Document/Backup-codes-haroonmind.txt",
+		"/C/Program Files/Git/mingw64/share/doc/git-doc/git-commit.html",
+		"/B/Work Space/Programming/JAVA/Projects/TestMaven/pom.xml",
+		"/C/Program Files/Apache Software Foundation/apache-maven-3.3.9/conf/settings.xml",
+		"/B/Work Space/Programming/JAVA/Projects/TestMaven2/thebytecodes/src/main/java/org/ow2/weblab/service/service-reportprovider.java",
+		"/B/Work Space/Programming/JAVA/Projects/TestMaven/target/maven-archiver/pom.properties",
+		"/B/Work Space/Programming/JAVA/Projects/TestMaven/pom2.xml",
+		"/C/Program Files/Apache Software Foundation/Tomcat 8.0/webapps/ROOT/RELEASE-NOTES.txt",
+		"/F/document/readme.txt",
+		"/B/BSCS Computer Science/spring 2016 7th semester/Multi Variable Calculus/Course Structure.txt",
+		"/B/DashBoard/Users/Haroon/Desktop/Desktop Files/sticky2.txt",
+		"/B/DashBoard/Users/Haroon/Desktop/Desktop Files/code formate Rule.php",
+		"/B/Work Space/Web Development/Project/ChamanAutos/WebSite/index.html",
+		"/B/Work Space/Web Development/Project/ChamanAutos/WebSite/autospanel/include/index.php",
+		"/B/Work Space/Web Development/Project/ChamanAutos/_Assets/Document/content/purchase order.txt",
+		"/B/Work Space/Web Development/Project/ChamanAutos/_Assets/Document/content/Entietes.txt",
+		"/B/Work Space/Web Development/Project/ChamanAutos/_Assets/Document/Assets/yahama/PRODUCTS _ YAMAHA MOTOR PAKISTAN Pvt., Ltd.html",
+		"/B/Work Space/Web Development/Project/ChamanAutos/_Assets/Document/Host Pakistan (Hosting INformation).txt",
+		"/B/DashBoard/Users/Haroon/Desktop/usefull link.txt",
+		"/B/Work Space/Web Development/Project/ChamanAutos/WebSite/autospanel/index.php",
+		"/B/DashBoard/Users/Haroon/Desktop/Desktop Files/abc.schemaxml",
+		"/F/Sp Service/index.html",
+		"/B/DashBoard/Users/Haroon/Desktop/Desktop Files/timer Example.txt",
+		"/B/DashBoard/Users/Haroon/Desktop/Desktop Files/time (2).txt",
+		"/B/DashBoard/Users/Haroon/Desktop/Desktop Files/BillGenerator.java",
+		"/B/Work Space/Projects/.net EXPERTIES.txt",
+		"/B/Work Space/Projects/Watch Later.txt",
+		"/B/Work Space/Web Development/Learn/PHP/usefull link.txt",
+		"/B/Work Space/Web Development/Learn/SEO/useful links.txt",
+		"/B/Work Space/Projects/UNSORT.txt",
+		"/B/Work Space/Programming/JAVA/JAVA FX/javafx",
+		"/B/Users/Haroon/Music/music.txt",
+		"/C/wamp/www/Sample/index.php",
+		"/B/Work Space/Matarial/I will Learn.txt",
+		"/B/Work Space/Projects/Project Name.txt",
+		"/B/Work Space/Web Development/Learn/JQuery/Useful links/JAVA SCRIPT JQUERY AND BOOTSTRAP Plugin",
+		"/B/Work Space/Web Development/Project/ChamanAutos/_Assets/purchase order.txt",
+		"/B/Work Space/Matarial/Akif/ATI Forms .html",
+		"/B/Work Space/Web Development/Assets/BootStrap/Assets/plasm-simplemodal-1.2-17/plasm-simplemodal-6c09dbf/Demos/index.html",
+		"/B/DashBoard/introduction for match.txt",
+		"/F/PHP/Learning Martrial/Uesful Link.txt",
+		"/B/Work Space/Programming/Andorid/Task to do.txt",
+		"/B/Work Space/Web Development/Learn/HTML 5/Learning Matrial/Css/normalize.css",
+		"/B/Work Space/Web Development/Learn/HTML 5/Html (toturial)/Unsort HTML Files/background.html",
+		"/B/Work Space/Web Development/Assets/BootStrap/Templates/Templates 2/startbootstrap-sb-admin-1.0.2/index.html",
+		"/B/DashBoard/Users/Haroon/Downloads/Compressed/DataTables-1.10.10/DataTables-1.10.10/examples/index.html",
+		"/B/DashBoard/Users/Haroon/Downloads/Compressed/DataTables-1.10.10/DataTables-1.10.10/examples/advanced_init/index.html",
+		"/B/DashBoard/Picture & Videos/Retouch/Haroon (@haroonmind) • 2.html",
+		"/C/wamp/bin/apache/apache2.4.9/conf/extra/httpd-vhosts.conf",
+		"/C/wamp/alias/webgrind.conf",
+		"/C/wamp/www/zf/composer.json",
+		"/C/wamp/www/zf/README.md",
+		"/B/Work Space/Web Development/Project/ChamanAutos/WebSite/autospanel/customer/Coustomer-list.php",
+		"/B/Work Space/Web Development/Project/ChamanAutos/WebSite/autospanel/login/login.php",
+		"/B/Work Space/Web Development/Project/ChamanAutos/WebSite/autospanel/customer/Coustomer-Warranty-List.php",
+		"/B/Work Space/Web Development/Project/ChamanAutos/WebSite/autospanel/customer/Coustomer-Warranty-Modify.php",
+		"/B/Work Space/Web Development/Project/ChamanAutos/WebSite/autospanel/customer/Coustomer-warranty-register.php",
+		"/B/Work Space/Web Development/Project/ChamanAutos/WebSite/autospanel/customer/Coustomer-Modify.php",
+		"/B/Work Space/Web Development/Project/ChamanAutos/WebSite/autospanel/customer/Coustomer-ADD.php",
+		"/B/Work Space/Web Development/Learn/HTML 5/Learning Matrial/html/HTML Designer.txt",
+		"/B/Work Space/Web Development/Learn/BootStrap/validation/plugin.txt",
+		"/B/Work Space/Web Development/Learn/AJAX/jquery Script",
+		"/B/Work Space/Web Development/Expriment/Validation/validation.html",
+		"/B/Work Space/Web Development/Project/ChamanAutos/WebSite/_test/jquery-Ajax/text.txt",
+		"/B/Work Space/Web Development/Learn/BootStrap/List of Bootstrap classes/bootstrap 3 class list.txt",
+		"/B/Work Space/Web Development/Learn/BootStrap/List of Bootstrap classes/bootstrap class list.txt",
+		"/B/Work Space/Web Development/Learn/XML/test.xml",
+		"/B/Work Space/Web Development/Learn/js FrameWork.txt",
+		"/B/Work Space/Web Development/jquery Script",
+		"/B/Work Space/Web Development/Learn/Angular JS/js/app.js",
+		"/B/Work Space/Web Development/Learn/BootStrap/Practice/Signin Modal/signIn.php",
+		"/B/Work Space/Web Development/Learn/BootStrap/Practice/login/index.php",
+		"/C/haroonmind-website/index.php",
+		"/C/wamp/bin/apache/apache2.4.9/bin/php.ini",
+		"/B/Work Space/Web Development/Learn/Angular JS/js/angular.js",
+		"/B/Work Space/Web Development/Project/ChamanAutos/_Assets/Chaman Autos work to do.txt",
+		"/C/wamp/bin/apache/apache2.4.9/wampserver.conf",
+		"/C/wamp/bin/apache/apache2.4.9/conf/wampserver.conf",
+		"/B/Work Space/Web Development/Learn/JQuery/JQuery Animation Sample/jQURY.txt",
+		"/B/Work Space/Web Development/Learn/JQuery/JQUERY lib links.txt",
+		"/C/wamp/bin/php/php5.6.16/wampserver.conf",
+		"/C/wamp/bin/php/php5.6.16/install.txt",
+		"/B/Work Space/Web Development/information/Manjan.txt",
+		"/B/Work Space/Web Development/information/message.txt"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"81",
+			"82",
+			"local",
+			"zend_extension = \"/path/to/my/xdebug.so\"",
+			"80",
+			"antrun-compile",
+			"complie",
+			"file",
+			"mvn clean deploy site-deploy",
+			"dependencies",
+			"validate",
+			"id.validate",
+			"d.validate",
+			"maven-antrun-plugin",
+			"row",
+			".nav",
+			"con",
+			"conn",
+			"con",
+			"conn",
+			"con",
+			"conn",
+			"con",
+			"conn",
+			"con",
+			"conn",
+			"con",
+			"conn",
+			"/assets",
+			"<!",
+			"/assets",
+			"webredox.com/demo/html/betadesign/",
+			"<!",
+			"webredox.com/demo/html/betadesign/",
+			"webredox.com/demo/html/betadesign/assets",
+			"<!",
+			"webredox.com/demo/html/betadesign/assets",
+			"webredox.com/demo/html/betadesign",
+			"\"webredox.com/demo/html/betadesign",
+			"<!",
+			"	<link href='http://fonts.googleapis.com/css?family=Dosis:300,400' rel='stylesheet' type='text/css'>\n	<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300' rel='stylesheet' type='text/css'>\n	<link rel=\"stylesheet\" href=\"assets/dest/bootstrap/3.1.0/css/bootstrap.min.css\">\n	<link rel=\"stylesheet\" href=\"webredox.com/demo/html/betadesign/assets/dest/css/font-awesome.min.css\">\n	<link rel=\"stylesheet\" href=\"webredox.com/demo/html/betadesign/assets/dest/vendors/colorbox/example3/colorbox.css\">\n	<link rel=\"stylesheet\" href=\"webredox.com/demo/html/betadesign/assets/dest/rs-plugin/css/settings.css\">\n	<link rel=\"stylesheet\" href=\"webredox.com/demo/html/betadesign/assets/dest/rs-plugin/css/responsive.css\">\n	<link rel=\"stylesheet\" title=\"style\" href=\"webredox.com/demo/html/betadesign/assets/dest/css/style.css\">\n	<link rel=\"stylesheet\" href=\"webredox.com/demo/html/betadesign/assets/dest/css/animate.css\">\n	<link rel=\"stylesheet\" href=\"webredox.com/demo/html/betadesign/assets/dest/css/styleswitcher.css\">\n	<link rel=\"alternate stylesheet\" type=\"text/css\" media=\"screen\" title=\"green\" href=\"webredox.com/demo/html/betadesign/assets/dest/css/green.css\"/>\n	<link rel=\"alternate stylesheet\" type=\"text/css\" media=\"screen\" title=\"lightblue\" href=\"webredox.com/demo/html/betadesign/assets/dest/css/lightblue.css\"/>\n	<link rel=\"alternate stylesheet\" type=\"text/css\" media=\"screen\" title=\"orange\" href=\"webredox.com/demo/html/betadesign/assets/dest/css/orange.css\"/>\n	<link rel=\"alternate stylesheet\" type=\"text/css\" media=\"screen\" title=\"yellow\" href=\"webredox.com/demo/html/betadesign/assets/dest/css/yellow.css\"/>\n	<link rel=\"alternate stylesheet\" type=\"text/css\" media=\"screen\" title=\"red\" href=\"webredox.com/demo/html/betadesign/assets/dest/css/red.css\"/>\n	<link rel=\"alternate stylesheet\" type=\"text/css\" media=\"screen\" title=\"color-5\" href=\"webredox.com/demo/html/betadesign/assets/dest/css/color-5.css\"/>\n	<link rel=\"alternate stylesheet\" type=\"text/css\" media=\"screen\" title=\"color-6\" href=\"webredox.com/demo/html/betadesign/assets/dest/css/color-6.css\"/>\n	<link rel=\"alternate stylesheet\" type=\"text/css\" media=\"screen\" title=\"color-7\" href=\"webredox.com/demo/html/betadesign/assets/dest/css/color-7.css\"/>\n	<link rel=\"alternate stylesheet\" type=\"text/css\" media=\"screen\" title=\"color-8\" href=\"webredox.com/demo/html/betadesign/assets/dest/css/color-8.css\"/>",
+			"<link href='http://fonts.googleapis.com/css?family=Dosis:300,400' rel='stylesheet' type='text/css'>\n	<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300' rel='stylesheet' type='text/css'>\n	<link rel=\"stylesheet\" href=\"assets/dest/bootstrap/3.1.0/css/bootstrap.min.css\">\n	<link rel=\"stylesheet\" href=\"webredox.com/demo/html/betadesign/assets/dest/css/font-awesome.min.css\">\n	<link rel=\"stylesheet\" href=\"webredox.com/demo/html/betadesign/assets/dest/vendors/colorbox/example3/colorbox.css\">\n	<link rel=\"stylesheet\" href=\"webredox.com/demo/html/betadesign/assets/dest/rs-plugin/css/settings.css\">\n	<link rel=\"stylesheet\" href=\"webredox.com/demo/html/betadesign/assets/dest/rs-plugin/css/responsive.css\">\n	<link rel=\"stylesheet\" title=\"style\" href=\"webredox.com/demo/html/betadesign/assets/dest/css/style.css\">\n	<link rel=\"stylesheet\" href=\"webredox.com/demo/html/betadesign/assets/dest/css/animate.css\">\n	<link rel=\"stylesheet\" href=\"webredox.com/demo/html/betadesign/assets/dest/css/styleswitcher.css\">\n	<link rel=\"alternate stylesheet\" type=\"text/css\" media=\"screen\" title=\"green\" href=\"webredox.com/demo/html/betadesign/assets/dest/css/green.css\"/>\n	<link rel=\"alternate stylesheet\" type=\"text/css\" media=\"screen\" title=\"lightblue\" href=\"webredox.com/demo/html/betadesign/assets/dest/css/lightblue.css\"/>\n	<link rel=\"alternate stylesheet\" type=\"text/css\" media=\"screen\" title=\"orange\" href=\"webredox.com/demo/html/betadesign/assets/dest/css/orange.css\"/>\n	<link rel=\"alternate stylesheet\" type=\"text/css\" media=\"screen\" title=\"yellow\" href=\"webredox.com/demo/html/betadesign/assets/dest/css/yellow.css\"/>\n	<link rel=\"alternate stylesheet\" type=\"text/css\" media=\"screen\" title=\"red\" href=\"webredox.com/demo/html/betadesign/assets/dest/css/red.css\"/>\n	<link rel=\"alternate stylesheet\" type=\"text/css\" media=\"screen\" title=\"color-5\" href=\"webredox.com/demo/html/betadesign/assets/dest/css/color-5.css\"/>\n	<link rel=\"alternate stylesheet\" type=\"text/css\" media=\"screen\" title=\"color-6\" href=\"webredox.com/demo/html/betadesign/assets/dest/css/color-6.css\"/>\n	<link rel=\"alternate stylesheet\" type=\"text/css\" media=\"screen\" title=\"color-7\" href=\"webredox.com/demo/html/betadesign/assets/dest/css/color-7.css\"/>\n	<link rel=\"alternate stylesheet\" type=\"text/css\" media=\"screen\" title=\"color-8\" href=\"webredox.com/demo/html/betadesign/assets/dest/css/color-8.css\"/>",
+			"plugin/css/assets/dest/rs-plugin/images/tiles/bgtile.html",
+			"datepicker",
+			"input_date",
+			"class",
+			"mysql_fetch_assoc",
+			"ajax-link",
+			"LoadAjaxContent"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			".header_top .nav",
+			"header_top .nav",
+			"link",
+			"assets",
+			"",
+			"/assets",
+			"",
+			"<link href='http://fonts.googleapis.com/css?family=Dosis:300,400' rel='stylesheet' type='text/css'>\n	<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300' rel='stylesheet' type='text/css'>\n	<link rel=\"stylesheet\" href=\"assets/dest/bootstrap/3.1.0/css/bootstrap.min.css\">\n	<link rel=\"stylesheet\" href=\"assets/dest/css/font-awesome.min.css\">\n	<link rel=\"stylesheet\" href=\"assets/dest/rs-plugin/css/settings.css\">\n	<link rel=\"stylesheet\" href=\"assets/dest/rs-plugin/css/responsive.css\">\n	<link rel=\"stylesheet\" href=\"assets/dest/vendors/colorbox/example3/colorbox.css\">\n	<link rel=\"stylesheet\" title=\"style\" href=\"assets/dest/css/style.css\">\n	<link rel=\"stylesheet\" href=\"assets/dest/css/animate.css\">\n	<link rel=\"stylesheet\" href=\"assets/dest/css/styleswitcher.css\">\n	<link rel=\"alternate stylesheet\" type=\"text/css\" media=\"screen\" title=\"green\" href=\"assets/dest/css/green.css\"/>\n	<link rel=\"alternate stylesheet\" type=\"text/css\" media=\"screen\" title=\"lightblue\" href=\"assets/dest/css/lightblue.css\"/>\n	<link rel=\"alternate stylesheet\" type=\"text/css\" media=\"screen\" title=\"orange\" href=\"assets/dest/css/orange.css\"/>\n	<link rel=\"alternate stylesheet\" type=\"text/css\" media=\"screen\" title=\"yellow\" href=\"assets/dest/css/yellow.css\"/>\n	<link rel=\"alternate stylesheet\" type=\"text/css\" media=\"screen\" title=\"red\" href=\"assets/dest/css/red.css\"/>\n	<link rel=\"alternate stylesheet\" type=\"text/css\" media=\"screen\" title=\"color-5\" href=\"assets/dest/css/color-5.css\"/>\n	<link rel=\"alternate stylesheet\" type=\"text/css\" media=\"screen\" title=\"color-6\" href=\"assets/dest/css/color-6.css\"/>\n	<link rel=\"alternate stylesheet\" type=\"text/css\" media=\"screen\" title=\"color-7\" href=\"assets/dest/css/color-7.css\"/>\n	<link rel=\"alternate stylesheet\" type=\"text/css\" media=\"screen\" title=\"color-8\" href=\"assets/dest/css/color-8.css\"/>\n	"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1785,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1515,
+								1515
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 432.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Java/JavaC.sublime-build",
+	"project": "html.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 293.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
